@@ -1,0 +1,2 @@
+# next-rails
+Next Rails
